@@ -1,7 +1,7 @@
 - 👋 Hi, I’m PKunda201
 - 👀 I’m interested in Computer 💻 🖥 science 
 - 🌱 I’m currently learning Data Science and AI science 😊 
-- 💞️ I’m looking to collaborate on  Linked In
+- 💞️ I’m looking to collaborate in  LinkedIn 
 
 - 😄 Pronouns: none
 - ⚡ Fun fact: Myself
